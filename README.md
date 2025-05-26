@@ -71,8 +71,6 @@ her iki varlık üzerinde de kapsamlı (Create, Read, Update, Delete) işlemleri
 * GET /api/books?page=0&size=5&sortBy=authorId&sortDir=asc - Kitap pageable
 
 🚀 Nasıl Çalıştırılır?
-bash
-KopyalaDüzenle
 # Projeyi klonla
 git clone https://github.com/sedabasaran/book-author-crud-api.git
 
